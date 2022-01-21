@@ -26,4 +26,4 @@ jobs:
         run: ./gradlew build
         
     env:
-      SLACK_WEBHOOK_RUL: https://hooks.slack.com/services/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
+      SLACK_WEBHOOK_RUL: https://hooks.slack.com/services/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
